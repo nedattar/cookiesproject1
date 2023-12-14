@@ -1,0 +1,93 @@
+/* Your existing CSS styles remain unchanged */
+
+/* Header Styles */
+header {
+  background-color: #5a2c02;
+  padding: 15px;
+  text-align: center;
+}
+
+.logo {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav ul {
+  list-style: none;
+  text-align: center; /* Centering the navigation items */
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Article Styles */
+article {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #f9f6f1;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.recipe-title {
+  color: #5a2c02;
+}
+
+.recipe-subtext {
+  color: #666;
+}
+
+.main-cookie-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+/* Section Title Styles */
+.section-title {
+  text-align: left;
+}
+
+/* List and Instruction Styles */
+.left-align {
+  text-align: left;
+}
+
+/* Centered Text Styles */
+.center {
+  text-align: center;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+  background-color: #5a2c02;
+  color: #fff;
+}
+
+.footer-text {
+  margin-top: 10px;
+}
